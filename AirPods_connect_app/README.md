@@ -4,7 +4,7 @@
 
 2. Once you click on the **Script Editor** it will open a blank window as I have shown below.
 
-3. Copy the script that I have provided in the [script.txt file]()
+3. Copy the script that I have provided in the [script.txt file](https://github.com/dilum1995/macOS-Scripts/blob/master/AirPods_connect_app/script.txt)
 
 4. Change the **Dilum’s AirPods** to your AirPod device name (you can take this from your bluetooth device list).
 
