@@ -24,7 +24,7 @@ This is an application which was developed to automate the steps of manually par
 ![Step01](src/step_04.png)
 
 
-## Let's put nice app icon for our AirPod connect app
+## Let's put a nice app icon for our AirPod connect app
 
 I have uploaded the icon that I used as [my app icon](https://github.com/dilum1995/macOS-Scripts/blob/master/AirPods_connect_app/src/AirPodsIcon.icns). Feel free to customize it or use your own icon which is in **icns** format.
 
@@ -36,4 +36,12 @@ In order to change your app icon please follow the steps below.
 
 ![Step01](src/step_05.png)
 
+3. As the next step you will get a new window whihc contains a whole bunch of information about the application.
 
+4. On that window you have the current app icon on your top left. As the next step you should drag and drop you new icon what you designed.
+
+![Step01](src/step_06.png)
+
+5. Now you can see that the icon of the AirPods Connect application has been changed to the new icon that you just updated.
+
+![Step01](src/step_07.png)
