@@ -1,4 +1,9 @@
-# How to develop your own AirPod connect app
+# AirPods Connect Application
+
+This is an application which was developed to automate the steps of manually paring a AirPods to a MacBook or any device/laptop whihch runs macOS x or higher versions. Furthermore, we can customize the same script to pair any bluetooth device without going through the bluetooth device list manually.
+
+
+## How to develop your own AirPod connect app
 
 1. Open your spotlight search by pressing on command key and space bar then search for **Script Editor**.
 
